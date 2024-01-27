@@ -1,11 +1,10 @@
-# 🌆Welcome to your visiting my github
+# 🌆Welcome to hnuu785's github
 
 I'm Hyeonwoo Cho, developer.
 
 
-Whatever you need to me, please contact to this email
+Whatever you need to me, please contact to this email <hnuu785@gmail.com>
 
-<hnuu785@gmail.com>
 
 
 # 🦍 my tech stack
